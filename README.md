@@ -2,6 +2,9 @@
 
 These scripts fetch all your Tumblr posts and their media files, storing them in a local SQLite database and downloading all media files to a local directory.
 
+<img width="1134" alt="Screenshot 2025-06-02 at 20 09 45" src="https://github.com/user-attachments/assets/5fccc40e-7f07-469e-97fe-266452355b9b" />
+
+
 ## Setup
 
 1. Get Tumblr API credentials:
