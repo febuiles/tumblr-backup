@@ -1,0 +1,7 @@
+.env
+*.log
+*.db
+.tool-versions
+.tumblr_tokens
+.venv
+media
